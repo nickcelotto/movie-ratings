@@ -7,11 +7,11 @@ This project was created to attempt to better understand what qualities go into 
 - This dataset contains the top 20 movies each year from 1989-2014, for a total of 510 observations
 - The factors I used movie genre, age certification (i.e. PG, PG-13, R), budget, and run-time to test their effects on movie rating
 
-# I have included a pdf report that sums up the business problem, the data, my findings, and the conclusion.
+### I have included a pdf report that sums up the business problem, the data, my findings, and the conclusion.
 
 ## Use Cases
-**Film Producers:** Offers real data on which categories typically produce high rated movies
-**Avid Movie Watchers:** Allows them to pick and choose movies based on this criteria for their viewing pleasure
+- **Film Producers:** Offers real data on which categories typically produce high rated movies
+- **Avid Movie Watchers:** Allows them to pick and choose movies based on this criteria for their viewing pleasure
 
 ## Thank You!
 I hope you enjoy this project! If you have any questions or want to connect, you can find me on [LinkedIn](https://www.linkedin.com/in/nicholascelotto/) or feel
