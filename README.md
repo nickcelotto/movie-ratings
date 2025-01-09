@@ -1,4 +1,4 @@
-# Movie Ratings
+# Movie Rating Project
 ## Overview
 This project was created to attempt to better understand what qualities go into a movie being highly rated. The ratings in this dataset were by IMDb, a popular website that contains information about movies and TV shows. 
 
